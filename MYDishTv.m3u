@@ -1,0 +1,26 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" tvg-name="Star select 1 Hd"  group-title="New Group",Star select 1 Hd
+http://stream.amrbd.com:8082/kn3a/tracks-v1a1/mono.m3u8?token=2dfcda2c58ed1fbd8a18988b7c3dde653569eec4-6bdf3462d7f42e775ce27df8ecc8ce8a-1628115063-1628104263
+
+#EXTINF:7, tvg-id="New EPG" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTTRTXMMdjxMXOtleDobn7AYRcTYxvg6gcNbmv9=s900-c-k-c0x00ffffff-no-rj" tvg-name="DBC NEWS"  group-title="New Group",DBC NEWS
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8?token=6bcdd970a4b8314dd4bc3d31d51ca936cff96b6a-693ef587eb22377bbd0958eb7effbd86-1628115731-1628104931
+
+#EXTINF:3, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" tvg-name="71 TV"  group-title="New Group",71 TV
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=807a0324cf0c5457112e5ca0af52e8d71cb55b32-edd7e810ea95e1546641778a4d06f4cc-1628115904-1628105104
+
+#EXTINF:4, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/originals/1e/ee/83/1eee8323a8087f687592c6eca74a99bb.png" tvg-name="ATN News"  group-title="New Group",ATN News
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8?token=ec9a010893f7fb44ad809cbd5c141fba7e9c39ac-837f632c8e0ab9c195d893c20b342a09-1628116756-1628105956
+
+#EXTINF:2, tvg-id="New EPG" tvg-logo="https://media.glassdoor.com/sqll/546002/somoy-media-squarelogo-1461918834767.png" tvg-name="2 Somoy TV"  group-title="New Group",2 Somoy TV
+http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=1cfcbddfb528adc914dff9de6d9b8c5cbce5d9e9-1333ea882e28b821498d54a761abeb78-1628116946-1628106146
+
+#EXTINF:6, tvg-id="New EPG" tvg-logo="https://yt3.ggpht.com/Y8ZiDPWHEAyCsus7n4upOOHHwE6Yof4pnTrkMSNXOCuxAkbMqmA4hb1VU-UKjmQp86yrNAN6DiQ=s900-c-k-c0x00ffffff-no-rj" tvg-name="Channel 24"  group-title="New Group",Channel 24
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8?token=943e6234b32028c17748ee893b08720ce5baa285-71ad792945bd1c418b5e18fa279311fb-1628118944-1628108144
+
+#EXTINF:5, tvg-id="New EPG" tvg-logo="http://www.muktobak.com/uploads/news/305_channel-i-logo.jpg" tvg-name="Channel i"  group-title="New Group",Channel i
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, tvg-id="New EPG" tvg-logo="https://1.bp.blogspot.com/-CEi2S5Xogms/X7kf6DJWbII/AAAAAAAAA7Q/nRyabzBOfBcDWLtOUD0yeRQz9HpyUhVOgCPcBGAYYCw/w800/Ekushe-TV-Live.png" tvg-name="1 Ekushey TV"  group-title="New Group",1 Ekushey TV
+http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+
